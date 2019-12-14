@@ -1,3 +1,6 @@
+This repo is forked from https://github.com/nv-tlabs/GSCNN
+
+
 Add group normalization and dw conv function.
 Training:
 python --adam (--gn) (--dw) 
