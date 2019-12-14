@@ -1,7 +1,7 @@
 This repo is forked from https://github.com/nv-tlabs/GSCNN
 
 
-Add group normalization and dw conv. You should change variable root in cityscapes.py before training
+Add group normalization and dw conv and delete some image Augmention method. You should change variable root in cityscapes.py before training
 
 
 Training:
